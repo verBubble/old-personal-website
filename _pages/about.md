@@ -11,4 +11,4 @@ redirect_from:
 I'm an undergraduate student in Southeast University.
 
 
-For more info, please check my [cv](https://info.xinyuebubble.xyz/files/resume_verbubble.pdf).
+For more info, please check my [cv](https://info.xinyuebubble.xyz/files/Resume.pdf).
